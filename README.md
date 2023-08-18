@@ -1,4 +1,4 @@
-![Front End Web Developer](https://github.com/future-cs/future-cs/blob/main/github-banner.png)
+![Front End Web Developer](https://github.com/future-cs/future-cs/blob/main/github-banner-portfolio-view.png)
 
 # Hi, I'm Gustavo
 ## Front End Web Developer
