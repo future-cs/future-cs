@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Gustavo
 #### Front End Web Developer
-![Front End Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Front End Web Developer](https://github.com/future-cs/future-cs/blob/main/github.png)
 
 I am a self-taught web development student looking forward to starting a career in Computer Science. 
 
