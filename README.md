@@ -3,7 +3,7 @@
 # Hi, I'm Gustavo
 ## Front End Web Developer
 
-I am a self-taught web development student looking forward to starting a career in Computer Science. 
+I am a self-taught web development student looking forward to start a career in Computer Science. 
 
 📚 I’m currently learning REACT and working on my portfolio. 
 
@@ -19,7 +19,7 @@ I am a self-taught web development student looking forward to starting a career 
 
 ## External links ⎘
 
- - 🖥 You can visit my portfolio at: https://gustavooliveira.netlify.app/
+- 🖥 You can visit my portfolio at: https://gustavooliveira.netlify.app/
 - 📄 LinkedIn: https://www.linkedin.com/in/oliveiragustavot/
 
 
