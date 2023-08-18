@@ -8,7 +8,9 @@ I am a self-taught web development student looking forward to starting a career 
 ### Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on my portfolio. 
-- 🌱 I’m currently learning REACT 
+- 🌱 I’m currently learning REACT
+
+- portfolio at: https://gustavooliveira.netlify.app/
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/future-cs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile/)  
