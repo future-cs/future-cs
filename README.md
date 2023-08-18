@@ -1,10 +1,11 @@
-### Hi there 👋, I'm Gustavo
-#### Front End Web Developer
 ![Front End Web Developer](https://github.com/future-cs/future-cs/blob/main/github.png)
+
+# Hi there 👋, I'm Gustavo
+## Front End Web Developer
 
 I am a self-taught web development student looking forward to starting a career in Computer Science. 
 
-Skills: REACT / JS / HTML / CSS
+###Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on my portfolio. 
 - 🌱 I’m currently learning REACT 
