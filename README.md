@@ -19,8 +19,8 @@ I am a self-taught web development student looking forward to starting a career 
 
 ## External links ⎘
 
-🖥 You can visit my portfolio at: https://gustavooliveira.netlify.app/
-📄 LinkedIn: https://www.linkedin.com/in/oliveiragustavot/
+ - 🖥 You can visit my portfolio at: https://gustavooliveira.netlify.app/
+- 📄 LinkedIn: https://www.linkedin.com/in/oliveiragustavot/
 
 
 ##
