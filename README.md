@@ -13,7 +13,7 @@ I am a self-taught web development student looking forward to starting a career 
 - portfolio at: https://gustavooliveira.netlify.app/
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' background-color='#4f709c'>](https://github.com/future-cs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' background-color='#4f709c'>](https://github.com/future-cs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/oliveiragustavot/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=future-cs)](https://github.com/anuraghazra/github-readme-stats)
 
