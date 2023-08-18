@@ -5,7 +5,7 @@
 
 I am a self-taught web development student looking forward to starting a career in Computer Science. 
 
-###Skills: REACT / JS / HTML / CSS
+### Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on my portfolio. 
 - 🌱 I’m currently learning REACT 
@@ -15,7 +15,5 @@ I am a self-taught web development student looking forward to starting a career 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=future-cs)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=future-cs&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=future-cs)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=future-cs&show_icons=true)
 
